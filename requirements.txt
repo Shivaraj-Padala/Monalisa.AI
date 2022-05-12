@@ -1,0 +1,12 @@
+flask
+wolframalpha
+wikipedia
+pyautogui
+transformers
+python-telegram-bot
+pillow
+torch
+pyperclip
+opencv-python
+requests
+googletrans==3.1.0a0
